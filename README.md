@@ -6,7 +6,7 @@ A modern graphical version of the classic **Battleship** game written in C, powe
 
 ---
 
-## 🚀 Features
+## Features
 
 - Classic Battleship grid gameplay
 - Graphical interface using **SDL2**
@@ -18,7 +18,7 @@ A modern graphical version of the classic **Battleship** game written in C, powe
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 Make sure you have these libraries installed:
 
@@ -26,3 +26,7 @@ Make sure you have these libraries installed:
 - `SDL2_ttf`
 - `SDL2_image`
 - `gcc` (or any standard C compiler)
+
+  ##  COMPILING CODE
+
+  gcc -lSDL2 -lSDL2_ttf -lSDL2_image BATTLESHIP.C
