@@ -30,3 +30,7 @@ Make sure you have these libraries installed:
   ##  COMPILING CODE
 
   gcc -lSDL2 -lSDL2_ttf -lSDL2_image BATTLESHIP.C
+
+
+  CREATED BY -
+  AVIRAL BOHRA
