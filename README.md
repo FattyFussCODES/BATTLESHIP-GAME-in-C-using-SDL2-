@@ -34,4 +34,4 @@ Make sure you have these libraries installed:
 
 ## 🙌 Built With ❤️ By
 
-- AVIRAL BOHRA(https://github.com/FattyFussCODES)
+- [AVIRAL BOHRA](https://github.com/FattyFussCODES)
