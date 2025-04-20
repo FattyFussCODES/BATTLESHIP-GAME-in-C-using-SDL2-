@@ -32,5 +32,6 @@ Make sure you have these libraries installed:
   gcc -lSDL2 -lSDL2_ttf -lSDL2_image BATTLESHIP.C
 
 
-  CREATED BY -
-  AVIRAL BOHRA
+## 🙌 Built With ❤️ By
+
+- AVIRAL BOHRA(https://github.com/FattyFussCODES)
